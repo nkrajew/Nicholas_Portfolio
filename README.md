@@ -8,9 +8,9 @@ My data science portfolio
 - Manipulated the raw data to create a "Fantasy Value" which was used as the target value.
 - Optimized Linear, Elastic Net, Random Forest, XGBoost, LightGBM, and SVM models using GridSearchCV (LightGBM used BayesianOptimization) to reach the best model.
 
-![](https://github.com/nkrajew/Nicholas_Portfolio/blob/master/images/corr_matrix_image.png )
-![](https://github.com/nkrajew/Nicholas_Portfolio/blob/master/images/pair_plot_resized.png)
-![](https://github.com/nkrajew/Nicholas_Portfolio/blob/master/images/target_distribution.png)
+![](/images/corr_matrix_image.png )
+![](/images/pair_plot_resized.png)
+![](/images/target_distribution.png)
 
 # [Project 2: HR Analytics - Employee Attrition: Project Overview](https://github.com/nkrajew/hr_attrition_proj)
 *Disclaimer: Data is fictitious*
@@ -19,6 +19,6 @@ My data science portfolio
 - Identified Job Role - Healthcare Rep, Job Level 1, Job Involvement 4, and Business Travel - Non-Travel as most important factors.
 - Recommended mitigation strategies for each factor (detailed below).
 
-![](https://github.com/nkrajew/Nicholas_Portfolio/blob/master/images/inc_attrit.PNG)
-![](https://github.com/nkrajew/Nicholas_Portfolio/blob/master/images/env_sat.PNG)
-![](https://github.com/nkrajew/Nicholas_Portfolio/blob/master/images/attrit_by_tenure.PNG)
+![](/images/inc_attrit.PNG)
+![](/images/env_sat.PNG)
+![](/images/attrit_by_tenure.PNG)
