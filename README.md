@@ -18,6 +18,7 @@ My data science portfolio
 - Compared output to XGB model without SMOTE (Recall: 0.31, Accuracy: 0.86).
 - Identified Job Role - Healthcare Rep, Job Level 1, Job Involvement 4, and Business Travel - Non-Travel as most important factors.
 - Recommended mitigation strategies for each factor (detailed below).
+
 ![](https://github.com/nkrajew/Nicholas_Portfolio/blob/master/images/inc_attrit.PNG)
 ![](https://github.com/nkrajew/Nicholas_Portfolio/blob/master/images/env_sat.PNG)
 ![](https://github.com/nkrajew/Nicholas_Portfolio/blob/master/images/attrit_by_tenure.PNG)
