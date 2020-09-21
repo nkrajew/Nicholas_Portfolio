@@ -20,5 +20,5 @@ My data science portfolio
 - Recommended mitigation strategies for each factor (detailed below).
 
 ![](/images/inc_attrit_resize.PNG)
-![](/images/env_sat.PNG)
+![](/images/env_sat_resize.PNG)
 ![](/images/attrit_by_tenure_resize.PNG)
