@@ -1,5 +1,5 @@
-# Nicholas_Portfolio
-My data science portfolio
+# Nicholas Krajewski's Data Science Portfolio
+My data science portfolio of personal and exploratory projects. 
 
 # [Project 1: Fantasy Baseball Prediction Model: Project Overview](https://github.com/nkrajew/baseball_proj)
 - Created a machine learning model to predict MLB players’ offensive fantasy value for the next season given their past statistics to help in future fantasy baseball drafts.
