@@ -19,6 +19,6 @@ My data science portfolio
 - Identified Job Role - Healthcare Rep, Job Level 1, Job Involvement 4, and Business Travel - Non-Travel as most important factors.
 - Recommended mitigation strategies for each factor (detailed below).
 
-![](/images/inc_attrit.PNG)
+![](/images/inc_attrit_resize.PNG)
 ![](/images/env_sat.PNG)
 ![](/images/attrit_by_tenure.PNG)
