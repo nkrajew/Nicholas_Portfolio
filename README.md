@@ -8,7 +8,7 @@ My data science portfolio of personal and exploratory projects.
 - Manipulated the raw data to create a "Fantasy Value" which was used as the target value.
 - Optimized Linear, Elastic Net, Random Forest, XGBoost, LightGBM, and SVM models using GridSearchCV (LightGBM used BayesianOptimization) to reach the best model.
 
-![](/images/corr_matrix_image_resize.png )
+![](/images/corr_matrix_image_resize.png)
 ![](/images/pair_plot_resize.png)
 ![](/images/target_distribution.png)
 
