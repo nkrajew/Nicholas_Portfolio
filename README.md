@@ -21,4 +21,4 @@ My data science portfolio
 
 ![](/images/inc_attrit_resize.PNG)
 ![](/images/env_sat.PNG)
-![](/images/attrit_by_tenure.PNG)
+![](/images/attrit_by_tenure_resize.PNG)
