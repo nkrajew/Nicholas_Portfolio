@@ -29,3 +29,7 @@ My data science portfolio of personal and exploratory projects.
 - Engineered features from the data to identify families with single earners.
 - Performed value imputation for entries with missing data.
 - Optimized Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors models using GridSearchCV.
+
+![](/images/dist_plot_pre_resize.PNG)
+![](/images/dist_plot_post_resize.PNG)
+![](/images/results.PNG)
