@@ -23,7 +23,7 @@ My data science portfolio of personal and exploratory projects.
 ![](/images/env_sat_resize.PNG)
 ![](/images/attrit_by_tenure_resize.PNG)
 
-# [Project 3: Loan Prediction] (https://github.com/nkrajew/loan_proj)
+# [Project 3: Loan Prediction](https://github.com/nkrajew/loan_proj)
 - Created a machine learning model (accuracy = 75%) to predict if a loan applicant will have their application approved.
 - Used loan data provided from Kaggle (link below).
 - Engineered features from the data to identify families with single earners.
