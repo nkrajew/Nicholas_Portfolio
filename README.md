@@ -33,3 +33,10 @@ My data science portfolio of personal and exploratory projects.
 ![](/images/dist_plot_pre_resize.PNG)
 ![](/images/dist_plot_post_resize.PNG)
 ![](/images/results.PNG)
+
+# [Music Lyrics Wordcloud](https://github.com/nkrajew/lyrics_wordcloud)
+- Created a word cloud visualization based on a musical artist's lyrics
+- Scraped data from the Genius Lyrics website using BeautifulSoup
+- Processed and cleaned the data using RegEx
+
+![](/images/NF_wordcloud.png)
