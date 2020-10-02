@@ -31,7 +31,7 @@ My data science portfolio of personal and exploratory projects.
 - Performed PCA on the input features to reduce the dimensionality of the data until it explained 95% of the variance.
 - Optimized Logistic Regression and Random Forest models using RandomizedSearchCV.
 
-![](/images/cluster_image_resize.PNG)
+![](/images/cluster_image_resize.PNG) \
 ![](/images/performance.PNG)
 
 # [Project 4: Loan Prediction](https://github.com/nkrajew/loan_proj)
