@@ -23,7 +23,7 @@ My data science portfolio of personal and exploratory projects.
 ![](/images/env_sat_resize.PNG)
 ![](/images/attrit_by_tenure_resize.PNG)
 
-# [Shopper Clustering and Intent to Purchase](https://github.com/nkrajew/shopper_cluster_proj)
+# [Project 3: Shopper Clustering and Intent to Purchase](https://github.com/nkrajew/shopper_cluster_proj)
 - Created a random forest model to predict (accuracy=0.90, precision=0.76) whether a shopper would be a purchaser.
 - Performed a separate cluster analysis to designate shoppers as "target", "general", and "uninterested" which could be used as one-hot features in a predictive model on future data.
 - Created and solved a business case for this type of e-commerce data
