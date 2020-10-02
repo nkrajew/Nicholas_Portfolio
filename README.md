@@ -23,7 +23,18 @@ My data science portfolio of personal and exploratory projects.
 ![](/images/env_sat_resize.PNG)
 ![](/images/attrit_by_tenure_resize.PNG)
 
-# [Project 3: Loan Prediction](https://github.com/nkrajew/loan_proj)
+# [Shopper Clustering and Intent to Purchase](https://github.com/nkrajew/shopper_cluster_proj)
+- Created a random forest model to predict (accuracy=0.90, precision=0.76) whether a shopper would be a purchaser.
+- Performed a separate cluster analysis to designate shoppers as "target", "general", and "uninterested" which could be used as one-hot features in a predictive model on future data.
+- Created and solved a business case for this type of e-commerce data
+- Engineered two new features from the raw data.
+- Performed PCA on the input features to reduce the dimensionality of the data until it explained 95% of the variance.
+- Optimized Logistic Regression and Random Forest models using RandomizedSearchCV.
+
+![](/images/cluster_image_resize.PNG)
+![](/images/performance.PNG)
+
+# [Project 4: Loan Prediction](https://github.com/nkrajew/loan_proj)
 - Created a machine learning model (accuracy = 75%) to predict if a loan applicant will have their application approved.
 - Used loan data provided from Kaggle.
 - Engineered features from the data to identify families with single earners.
@@ -34,7 +45,7 @@ My data science portfolio of personal and exploratory projects.
 ![](/images/dist_plot_post_resize.PNG)
 ![](/images/results.PNG)
 
-# [Project 4: Music Lyrics Wordcloud](https://github.com/nkrajew/lyrics_wordcloud)
+# [Project 5: Music Lyrics Wordcloud](https://github.com/nkrajew/lyrics_wordcloud)
 - Created a word cloud visualization based on a musical artist's lyrics
 - Scraped data from the Genius Lyrics website using BeautifulSoup
 - Processed and cleaned the data using RegEx
